@@ -1,16 +1,16 @@
-typography_spectrum: 0.20722231431864202
-color:
-  brandStrength: 0.13757609319873154
-  lightness: 0.5974730136804283
-  saturation: 0.2035229487810284
-  rhythmicContrast: 0.661133098648861
-  brandColors:
-    - '#16193B'
-    - '#35478C'
-    - '#4E7AC7'
-    - '#7FB2F0'
-    - '#ADD5F7'
 layout_spectrum: 0.24106894806027412
+typography_spectrum: 0.9205779659096152
+color:
+  brandStrength: 0.8110471733380109
+  lightness: 0.2171259792521596
+  saturation: 0.8482262080069631
+  rhythmicContrast: 0.48121335823088884
+  brandColors:
+    - '#A7304F'
+    - '#F46D8D'
+    - '#F39EB5'
+    - '#081028'
+    - '#F0CEB7'
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f08239a-4a64-4d33-a77c-e20133bc8427.png
 name: Digital Family Protection
