@@ -1,4 +1,3 @@
-layout_spectrum: 0.24106894806027412
 typography_spectrum: 0.20722231431864202
 color:
   brandStrength: 0.13757609319873154
@@ -11,6 +10,11 @@ color:
     - '#4E7AC7'
     - '#7FB2F0'
     - '#ADD5F7'
+layout_spectrum: 0.24106894806027412
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f08239a-4a64-4d33-a77c-e20133bc8427.png
 name: Digital Family Protection
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b02e059a-836e-4373-baef-cddede321b61.png
 title: Digital Family Protection
 description: How to protect your children online
