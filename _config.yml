@@ -1,20 +1,14 @@
 layout_spectrum: 0.24106894806027412
-typography_spectrum: 0.9205779659096152
+typography_spectrum: 0.5521544385701418
 color:
-  brandStrength: 0.8110471733380109
-  lightness: 0.2171259792521596
-  saturation: 0.8482262080069631
-  rhythmicContrast: 0.48121335823088884
+  brandStrength: 0.13757609319873154
+  lightness: 0.5974730136804283
+  saturation: 0.2035229487810284
+  rhythmicContrast: 0.661133098648861
   brandColors:
-    - '#A7304F'
-    - '#F46D8D'
-    - '#F39EB5'
-    - '#081028'
-    - '#F0CEB7'
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f08239a-4a64-4d33-a77c-e20133bc8427.png
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Digital Family Protection
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b02e059a-836e-4373-baef-cddede321b61.png
-title: Digital Family Protection
-description: How to protect your children online
